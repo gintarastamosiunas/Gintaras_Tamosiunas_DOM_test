@@ -8,7 +8,7 @@
 - sio failo direktorijoje ivykdykite komanda: 
 - npm install
 
-## Projekto paelidimas
+## Projekto paleidimas
 1. Sio failo direktorijoje paleiskite serveri:
 * windows - npm run start-win
 * unix/Mac - npm run start-unix

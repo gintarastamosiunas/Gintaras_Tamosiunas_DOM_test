@@ -1,6 +1,7 @@
 {
-    "apartment": [
-        {"id": 1,
+    "apartments": [
+        {
+            "id": 1,
             "type": "flat",
             "owner": {
               "fullname": "Jonas",
@@ -14,34 +15,34 @@
               "street": "Dauksos",
               "number": "3",
             },
-            "price": {
-              "amount": 56000,
+            "price": 
+            {
+              "amount": "56000",
               "currency": "€",
             },
             "imgSrc": "https://www.statybunaujienos.lt/images/naujienos/726_545/70145e5ff5fd67f52c8182190c54ea1d.jpg"
         },
         {
-            "apartment": [
-                {"id": 2,
-                    "type": "house",
-                    "owner": {
-                      "fullname": "Petras",
-                      "email": "petras@gmail.com",
-                      "phone": "86143565",
-                    "roomCount": "5",
-                    "squares": "175",
-                    "address": {
-                      "city": "Vilnius",
-                      "country": "Lithuania",
-                      "street": "Vytauto",
-                      "number": "5",
-                    },
-                    "price": {
-                      "amount": 134000,
-                      "currency": "$",
-                    },
-                    "imgSrc": "https://www.interjeras.lt/tl_files/catalogs/news/2019/02_Vasaris/19_Jung/9.jpg"
-                },
-
+            "id": 2,
+            "type": "house",
+            "owner": {
+              "fullname": "Petras",
+              "email": "Petras@gmail.com",
+              "phone": "86143544",
+            "roomCount": "5",
+            "squares": "135",
+            "address": {
+              "city": "Vilnius",
+              "country": "Lithuania",
+              "street": "Vytauto",
+              "number": "5",
+            },
+            "price": 
+            {
+              "amount": "176000",
+              "currency": "$",
+            },
+            "imgSrc": "https://g1.dcdn.lt/images/pix/880x550/7439n9Wg2NQ/namas-su-adidas-piesiniu-69477922.jpg"
+        }
     ]
 }
