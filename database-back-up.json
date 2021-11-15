@@ -1,0 +1,49 @@
+{
+    "apartments": [
+            {
+            "id": 1,
+            "type": "flat",
+            "owner": {
+              "fullname": "Jonas",
+              "email": "jonas@gmail.com",
+              "phone": "86143561"
+            },
+            "roomCount": "3",
+            "squares": "75",
+            "address": {
+              "city": "Vilnius",
+              "country": "Lithuania",
+              "street": "Dauksos",
+              "number": "3"
+            },
+            "price": {
+              "amount": "56000",
+              "currency": "€"
+            },
+            "imgSrc": "https://www.statybunaujienos.lt/images/naujienos/726_545/70145e5ff5fd67f52c8182190c54ea1d.jpg"
+        },
+        {
+            "id": 2,
+            "type": "house",
+            "owner": {
+              "fullname": "Petras",
+              "email": "Petras@gmail.com",
+              "phone": "86143544"
+            },
+            "roomCount": "5",
+            "squares": "135",
+            "address": {
+              "city": "Vilnius",
+              "country": "Lithuania",
+              "street": "Vytauto",
+              "number": "5"
+            },
+            "price": 
+            {
+              "amount": "176000",
+              "currency": "$"
+            },
+            "imgSrc": "https://g1.dcdn.lt/images/pix/880x550/7439n9Wg2NQ/namas-su-adidas-piesiniu-69477922.jpg"
+        }
+    ]
+}
